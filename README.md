@@ -1,6 +1,6 @@
-# text2HTML
+# Text2HTML
 
-html generator written in python
+## html generator written in python
 
 - put in your colors name in file4color.txt seperated with comma or leave it blank for default
 - user defined text in user.txt 
