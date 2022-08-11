@@ -1,4 +1,4 @@
-# Text2Html
+# text2HTML
 
 html generator written in python
 
